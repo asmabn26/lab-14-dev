@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème forcé en CLAIR par défaut pour le Lab -->
+    <style name="Base.Theme.SecureStorageLabJava" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#10B981</item>
+        <item name="android:colorBackground">@color/light_bg</item>
+        <item name="colorSurface">@color/light_surface</item>
+        <item name="colorOnSurface">@color/light_on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/light_on_surface_variant</item>
+        <item name="colorError">#EF4444</item>
+    </style>
+    <style name="Theme.SecureStorageLabJava" parent="Base.Theme.SecureStorageLabJava" />
+</resources>
