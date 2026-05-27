@@ -1,3 +1,4 @@
+
 # LAB 14 – Sauvegarde locale sécurisée sous Android
 
 ## Objectif
@@ -38,7 +39,7 @@ La capture suivante montre les logs générés pendant les tests.
 On remarque que les actions sont bien tracées : restauration des préférences, création des fichiers internes, lecture JSON, export externe et nettoyage complet.  
 Aucun token n’est affiché en clair.
 
-![Capture Logcat](01.png)
+<img width="1858" height="578" alt="Capture d&#39;écran 2026-05-26 201436" src="https://github.com/user-attachments/assets/81e96e4c-f779-4196-b5c8-3bc207dd6748" />
 
 ## Vidéo démonstration
 
@@ -50,8 +51,14 @@ Elle montre les étapes suivantes :
 3. stockage sécurisé du token ;
 4. création et lecture du fichier JSON ;
 5. export externe app-specific ;
-6. vérification dans Logcat ;
 7. nettoyage complet des données.
+   
+
+https://github.com/user-attachments/assets/f5eeaee6-c529-4d30-9594-29ec1f6c4d6c
+
+
+
+
 
 ## Conclusion
 
